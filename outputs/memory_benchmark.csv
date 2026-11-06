@@ -1,0 +1,3 @@
+method,peak_kb
+Eager (load all first),42.5068359375
+Lazy (line by line),38.1572265625
